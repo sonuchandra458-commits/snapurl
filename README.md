@@ -24,3 +24,8 @@ npm install
 node server.js
 ```
 Open http://localhost:3000
+
+
+thank you for your attention .
+i hope you understood the project .
+ ~~~~~~~ made by arpita,krishna,sonu and kashak ~~~~~~~~
